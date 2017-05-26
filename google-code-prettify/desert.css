@@ -1,18 +1,4 @@
 /* desert scheme ported from vim to google prettify */
-pre.codetag{
-  background: #eee;
-    text-shadow: 0 1px #fff;
-    display: inline-block;
-    white-space: nowrap;
-    font-size: 0.8em;
-    line-height: 1.5em;
-    color: #555;
-    border: 1px solid #ddd;
-    -webkit-border-radius: 0.4em;
-    border-radius: 0.4em;
-    padding: 0 0.3em;
-    margin: -1px 0;
-}
 pre.code {
 display: block;
 overflow: auto;
